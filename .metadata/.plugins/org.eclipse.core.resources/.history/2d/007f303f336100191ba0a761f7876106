@@ -1,0 +1,7 @@
+package com.security.AuthorizationServer;
+
+//import org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurerAdapter
+import org
+public class AuthorizacionServerConfiguration extends AuthorizationServerConfigurerAdapter {
+
+}
